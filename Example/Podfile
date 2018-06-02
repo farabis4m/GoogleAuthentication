@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GoogleAuthentication_Example' do
+  pod 'GoogleAuthentication', :path => '../'
+
+  target 'GoogleAuthentication_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
