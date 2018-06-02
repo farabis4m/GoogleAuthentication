@@ -1,0 +1,6 @@
+framework module GoogleAuthentication {
+  umbrella header "GoogleAuthentication-umbrella.h"
+
+  export *
+  module * { export * }
+}

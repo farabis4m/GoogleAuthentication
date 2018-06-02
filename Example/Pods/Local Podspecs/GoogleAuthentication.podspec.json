@@ -1,0 +1,22 @@
+{
+  "name": "GoogleAuthentication",
+  "version": "0.1.0",
+  "summary": "A short description of GoogleAuthentication.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fatima/GoogleAuthentication",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fatima": "fatima@farabi.ae"
+  },
+  "source": {
+    "git": "https://github.com/fatima/GoogleAuthentication.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GoogleAuthentication/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - GoogleAuthentication (0.1.0)
+
+DEPENDENCIES:
+  - GoogleAuthentication (from `../`)
+
+EXTERNAL SOURCES:
+  GoogleAuthentication:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GoogleAuthentication: b4b99ffee62a521b7c21b6d05a9bf514b1a8303e
+
+PODFILE CHECKSUM: 10d3c80b0e3ab73c65ad75857c730dd4480e4ea5
+
+COCOAPODS: 1.5.2
